@@ -1,0 +1,9 @@
+D:\AUC\tasks\Nunit\Nunit.Test\bin\Debug\Nunit.Test.dll
+D:\AUC\tasks\Nunit\Nunit.Test\bin\Debug\Nunit.Test.pdb
+D:\AUC\tasks\Nunit\Nunit.Test\bin\Debug\Nunit.exe
+D:\AUC\tasks\Nunit\Nunit.Test\bin\Debug\nunit.framework.dll
+D:\AUC\tasks\Nunit\Nunit.Test\bin\Debug\Nunit.pdb
+D:\AUC\tasks\Nunit\Nunit.Test\bin\Debug\nunit.framework.xml
+D:\AUC\tasks\Nunit\Nunit.Test\obj\Debug\Nunit.Test.csprojResolveAssemblyReference.cache
+D:\AUC\tasks\Nunit\Nunit.Test\obj\Debug\Nunit.Test.dll
+D:\AUC\tasks\Nunit\Nunit.Test\obj\Debug\Nunit.Test.pdb

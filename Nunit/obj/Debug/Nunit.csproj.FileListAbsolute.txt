@@ -1,0 +1,8 @@
+D:\AUC\tasks\Nunit\Nunit\bin\Debug\Nunit.exe.config
+D:\AUC\tasks\Nunit\Nunit\bin\Debug\Nunit.exe
+D:\AUC\tasks\Nunit\Nunit\bin\Debug\Nunit.pdb
+D:\AUC\tasks\Nunit\Nunit\bin\Debug\nunit.framework.dll
+D:\AUC\tasks\Nunit\Nunit\bin\Debug\nunit.framework.xml
+D:\AUC\tasks\Nunit\Nunit\obj\Debug\Nunit.csprojResolveAssemblyReference.cache
+D:\AUC\tasks\Nunit\Nunit\obj\Debug\Nunit.exe
+D:\AUC\tasks\Nunit\Nunit\obj\Debug\Nunit.pdb
